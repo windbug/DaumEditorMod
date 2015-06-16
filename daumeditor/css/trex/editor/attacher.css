@@ -1,0 +1,33 @@
+/*==== image ====*/
+.tx-list .tx-image a {
+	height: 25px;
+	width: 35px;
+	background-position: 0 6px;
+}
+.tx-image a:hover {background-position:0 -18px;}
+.tx-toolbar-basic .tx-list .tx-image a {background-position:7px 4px;width:42px;}
+.tx-toolbar-basic .tx-list .tx-image a:hover { background-position: 7px -20px;}
+/*==== file ====*/
+.tx-list .tx-file a {
+	height: 25px;
+	width: 33px;
+	background-position: -106px 6px;
+}
+.tx-file a:hover {background-position: -106px -18px;}
+.tx-toolbar-basic .tx-list .tx-file a {background-position:-100px 4px; width:46px;}
+
+/*==== media ====*/
+.tx-toolbar-basic .tx-list .tx-file a:hover { background-position: -100px -20px;}
+.tx-list .tx-photoedit a { height: 25px; width: 70px; background-position: 0 6px;}
+.tx-photoedit a:hover { background-position: 0 -18px;}
+.tx-toolbar-basic .tx-list .tx-photoedit a { background-position: 7px 4px; width: 78px;}
+.tx-toolbar-basic .tx-list .tx-photoedit a:hover { background-position: 7px -20px; width: 78px;}
+.tx-list .tx-youtube a { height: 25px; width: 70px; background-position: -106px 6px;}
+.tx-youtube a:hover { background-position: -106px -18px;}
+.tx-list .tx-maps a { height: 25px; width: 33px; background-position: -152px 6px;}
+.tx-maps a:hover { background-position: -152px -18px;}
+.tx-toolbar-basic .tx-list .tx-maps a { background-position: -100px 4px; width: 46px;}
+.tx-list .tx-emoticon a { height: 25px; width: 70px; background-position: -196px 6px;}
+.tx-emoticon a:hover { background-position: -196px -18px;}
+.tx-list .tx-media a { height: 25px; width: 49px; background-position: -425px 6px;}
+.tx-media a:hover {background-position:-425px -18px;}
